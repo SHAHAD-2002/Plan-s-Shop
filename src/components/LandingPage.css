@@ -1,0 +1,26 @@
+.landing-page {
+    background-image: url('../assest/background.png');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .landing-page h1 {
+    font-size: 3rem;
+  }
+  
+  .landing-page p {
+    font-size: 1.5rem;
+  }
+  
+  .landing-page button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin-top: 20px;
+    cursor: pointer;
+  }
